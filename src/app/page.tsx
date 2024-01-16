@@ -1,6 +1,6 @@
 import Grid from "./ui/grid/grid";
 
-export default function Page() {
+export default function Homepage() {
   return (
     <Grid></Grid>
   )
