@@ -10,7 +10,13 @@ export default function TextCards({ content }) {
       {content.map((item, index) => (
         <div key={index} className={styles.card}>
           <div className={styles.image_container}>
-            <Image src={item.image} alt="person" width={100} height={100} />
+            {item.image.indexOf('.svg') > -1 ? (
+              <svg role="img">
+                <use href={item.image}></use>
+              </svg>
+            ) : (
+              <Image src={item.image} alt="person" width={100} height={100} />
+            )}
           </div>
           <div>
             <Title level={3}>{item.title}</Title>

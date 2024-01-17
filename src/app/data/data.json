@@ -1,0 +1,63 @@
+{
+  "works": [
+    {
+      "title": "Work 1",
+      "description": "This is a description of the work 1",
+      "image": "/images/works/work-1.jpeg"
+    },
+    {
+      "title": "Work 2",
+      "description": "This is a description of the work 2",
+      "image": "/images/works/work-2.jpeg"
+    },
+    {
+      "title": "Work 3",
+      "description": "This is a description of the work 3",
+      "image": "/images/works/work-3.jpeg"
+    },
+    {
+      "title": "Work 4",
+      "description": "This is a description of the work 4",
+      "image": "/images/works/work-4.jpeg"
+    },
+    {
+      "title": "Work 5",
+      "description": "This is a description of the work 5",
+      "image": "/images/works/work-5.jpeg"
+    },
+    {
+      "title": "Work 6",
+      "description": "This is a description of the work 6",
+      "image": "/images/works/work-6.jpeg"
+    }
+  ],
+  "people": [
+    {
+      "image": "/images/works/work-6.jpeg",
+      "title": "Pato",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Magni explicabo laudantium temporibus cupiditate soluta cum et pariatur veniam eius a sapiente ullam ipsa molestiae recusandae delectus, adipisci aliquid id distinctio."
+    },
+    {
+      "image": "/images/works/work-6.jpeg",
+      "title": "Brian",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Magni explicabo laudantium temporibus cupiditate soluta cum et pariatur veniam eius a sapiente ullam ipsa molestiae recusandae delectus, adipisci aliquid id distinctio."
+    }
+  ],
+  "services": [
+    {
+      "image": "/images/icons.svg#ladder",
+      "title": "Development",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "image": "/images/icons.svg#rocket",
+      "title": "IA",
+      "description": "Magni explicabo laudantium temporibus cupiditate soluta."
+    },
+    {
+      "image": "/images/icons.svg#abacus",
+      "title": "IA",
+      "description": "Magni explicabo laudantium temporibus cupiditate soluta."
+    }
+  ]
+}
