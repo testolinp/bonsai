@@ -19,6 +19,7 @@ export default function Header() {
         <ul>
           <li><Link href='/'>Work</Link></li>
           <li><Link href='/about'>About</Link></li>
+          <li><Link href='/contact'>Contact us</Link></li>
         </ul>
       </nav>
     </header>
